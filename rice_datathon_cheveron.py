@@ -20,7 +20,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error
 
-# prompt: import r2 score
 
 from sklearn.metrics import r2_score
 
